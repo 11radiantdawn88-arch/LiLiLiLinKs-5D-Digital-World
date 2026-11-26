@@ -1,4 +1,4 @@
-# LiLiLinKs 5D Digital World — working prototype
+https://lovable.dev/invite/H67TEY5# LiLiLinKs 5D Digital World — working prototype
 
 Open `index.html` locally or deploy the contents of this folder using Netlify's manual/drag-and-drop deploy. No GitHub workflow is required.
 
